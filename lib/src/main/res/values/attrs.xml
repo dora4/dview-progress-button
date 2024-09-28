@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="dview_pb_showBorder" format="boolean" />
+        <attr name="dview_pb_borderWidth" format="dimension|reference" />
+        <attr name="dview_pb_borderColor" format="color|reference" />
+        <attr name="dview_pb_cornerRadius" format="dimension|reference" />
+        <attr name="dview_pb_hoverTextColor" format="color|reference" />
+        <attr name="dview_pb_backgroundColor" format="color|reference" />
+        <attr name="dview_pb_hoverColor" format="color|reference" />
+        <attr name="dview_pb_pausedText" format="string|reference" />
+        <attr name="dview_pb_finishedText" format="string|reference" />
+        <attr name="dview_pb_autoReset" format="boolean" />
+    </declare-styleable>
+</resources>
