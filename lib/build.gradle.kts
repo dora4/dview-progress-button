@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "dora.widget"
+    namespace = "dora.widget.progressbutton"
     compileSdk = 34
 
     defaultConfig {

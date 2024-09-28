@@ -25,5 +25,5 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-rootProject.name = "dview-template"
+rootProject.name = "dview-progress-button"
 include ':lib'

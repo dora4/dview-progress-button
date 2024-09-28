@@ -1,5 +1,5 @@
-dview-template
-![Release](https://jitpack.io/v/dora4/dview-template.svg)
+dview-progress-button
+![Release](https://jitpack.io/v/dora4/dview-progress-button.svg)
 --------------------------------
 
 #### Gradle依赖配置
@@ -13,10 +13,6 @@ allprojects {
 }
 // 添加以下代码到app模块的build.gradle
 dependencies {
-    implementation 'com.github.dora4:dview-template:1.0'
+    implementation 'com.github.dora4:dview-progress-button:1.0'
 }
 ```
-
-1.修改settings.gradle的rootProject.name
-2.修改lib模块的build.gradle的namespace
-3.修改README.md文件的库名，并删除此步骤提示
