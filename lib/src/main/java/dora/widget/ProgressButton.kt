@@ -10,6 +10,7 @@ import android.util.AttributeSet
 import android.view.Gravity
 import androidx.annotation.MainThread
 import androidx.appcompat.widget.AppCompatButton
+import dora.widget.progressbutton.R
 import java.text.DecimalFormat
 import java.util.*
 

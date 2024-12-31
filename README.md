@@ -21,6 +21,6 @@ allprojects {
 }
 // 添加以下代码到app模块的build.gradle
 dependencies {
-    implementation 'com.github.dora4:dview-progress-button:1.0'
+    implementation 'com.github.dora4:dview-progress-button:1.1'
 }
 ```
