@@ -2,6 +2,8 @@ dview-progress-button
 ![Release](https://jitpack.io/v/dora4/dview-progress-button.svg)
 --------------------------------
 
+![DORA视图 蓄能引爆装置](https://github.com/user-attachments/assets/7d276edd-a06f-42a1-ae99-c61926fad1e5)
+
 ##### 卡名：Dora视图 ProgressButton 
 ###### 卡片类型：效果怪兽
 ###### 属性：风
